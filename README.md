@@ -12,3 +12,11 @@
 -  **Hobbies :** Football :soccer: & Music :headphones:
 -  **Fact :** something cool for me is when I can take part in developing current trend technologies :heart:
 -  **Contact me :** [Muhamad Irvan Dandung](mailto:irvandandung1@gmail.com)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![github stats](https://github-readme-stats.vercel.app/api?username=Isha2103&show_icons=true)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+⭐️ From [Muhamad Irvan Dandung](https://github.com/irvandandung)
