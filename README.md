@@ -8,5 +8,5 @@
 -  **Learning :** Front-End Development :zap: | Open-Source :fire:    
 -  **Languages :** PHP, HTML, CSS, JS, KOTLIN, JAVA 
 -  **Hobbies :** Football :soccer: & Music :headphones:
--  **Fact :** First solve the problem, then write the code :heart:
+-  **Fact :** something cool for me is when I can take part in developing current trend technologies :heart:
 -  **Contact me :** [Muhamad Irvan Dandung](mailto:irvandandung1@gmail.com)
