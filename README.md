@@ -1,6 +1,6 @@
 ###  :man_technologist:  [Muhamad Irvan Dandung]()
 
-👋 Hi, I'm Muhamad Irvan Dandung,a developer junior in somatech.co and i am studying at Faculty of Computer Science, Mercubuana University 🚀. 
+👋 Hi, I'm Muhamad Irvan Dandung, a developer junior in somatech.co and i am studying at Faculty of Computer Science, Mercubuana University 🚀. 
 <!-- **irvandandung/irvandandung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
