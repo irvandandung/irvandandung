@@ -8,7 +8,7 @@
 ### About
 
 -  **Learning :** Front-End Development :zap: | Open-Source :fire:    
--  **Languages :** PHP, HTML, CSS, JS, KOTLIN, JAVA 
+-  **Languages :** PHP, HTML, CSS, JS, KOTLIN, JAVA, C++, PYTHON
 -  **Hobbies :** Football :soccer: & Music :headphones:
 -  **Fact :** something cool for me is when I can take part in developing current trend technologies :heart:
 
