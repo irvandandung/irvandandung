@@ -25,7 +25,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/bcit-ci/ci-design/master/website/assets/images/ci-icon.png" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://img1.pngdownload.id/20180810/cxt/kisspng-oracle-certified-professional-java-se-programmer-c-grails-development-groovy-development-grails-d-5b6dde2478a285.7026776415339269484941.jpg" />
+<img align="left" alt="GitHub" width="26px" src="https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png" />
 
 <br />
 
