@@ -27,7 +27,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/bcit-ci/ci-design/master/website/assets/images/ci-icon.png" />
 <img align="left" alt="Android Studio" width="26px" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" />
-<img align="left" alt="NGINX" width="46px" height="24px" src="https://nginx.org/nginx.png" />
+<img align="left" alt="NGINX" width="46px" height="22px" src="https://nginx.org/nginx.png" />
 
 <br/>
 <br/>
