@@ -27,7 +27,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png" />
 
-<br />
+<br/>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
