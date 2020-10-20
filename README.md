@@ -8,9 +8,16 @@
 ### About
 
 -  **Learning :**  Learning everything 🤣 :zap: | Open-Source :fire:    
--  **Tools & Languages :** <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 -  **Hobbies :** Football :soccer: & Music :headphones:
 -  **Fact :** something cool for me is when I can take part in developing current trend technologies :heart:
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Languages and Tools:
+
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][website]
+[<img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />][website]
+[<img align="left" alt="Php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />][website]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
