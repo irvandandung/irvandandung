@@ -26,6 +26,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/bcit-ci/ci-design/master/website/assets/images/ci-icon.png" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" />
 <img align="left" alt="GitHub" width="16px" height="26px" src="https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png" />
+<img align="left" alt="GitHub" width="16px" height="26px" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" />
 
 <br/>
 <br/>
