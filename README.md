@@ -1,5 +1,4 @@
-# :man_technologist: Hi EveryOne 👋 🚀
-[![irvandandung](https://circleci.com/gh/irvandandung/BioskopMovie-AE.svg?style=svg)](https://circleci.com/gh/irvandandung/BioskopMovie-AE)
+# [![irvandandung](https://circleci.com/gh/irvandandung/BioskopMovie-AE.svg?style=svg)](https://circleci.com/gh/irvandandung/BioskopMovie-AE) Hi EveryOne 👋 🚀 :man_technologist:
 [![Linkedin Badge](https://img.shields.io/badge/-Muhamad_Irvan_Dandung-1ca0f1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhamad-irvan-dandung-7b2964167//)](https://www.linkedin.com/in/muhamad-irvan-dandung-7b2964167/) [![Gmail Badge](https://img.shields.io/badge/-irvandandung1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:irvandandung1@gmail.com)](mailto:irvandandung1@gmail.com)
 <!-- **irvandandung/irvandandung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
