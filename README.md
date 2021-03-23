@@ -4,7 +4,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About Me
 
--  **Learning :**  Learning everything about Computer Science 🤣 :zap: | Open-Source :fire:    
+-  **Learning :**  Learning everything about Computer Science 🤣 :zap: :fire:    
 -  **Hobbies :** Football :soccer: & Music :headphones:
 -  **Fact :** something cool for me is when I can take part in developing application with current technologies :heart:
 
