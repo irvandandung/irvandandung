@@ -24,7 +24,7 @@
 <img align="left" alt="Android Studio" width="26px" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="CodeIgniter" width="26px" src="https://codeigniter.com/assets/images/ci-logo-big.png" />
+<img align="left" alt="CodeIgniter" width="26px" src="https://codeigniter.com/favicons/favicon-32x32.png" />
 
 <br/>
 <br/>
